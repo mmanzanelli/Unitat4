@@ -1,5 +1,6 @@
 # MEMORIA TEMA MAKE
 
+[enlace GitHub Maxi](https://github.com/mmanzanelli/Unitat4.git)
 
 ## TO-DO pagina 4
 
@@ -31,6 +32,11 @@ la resta entre 10 i 5 és 5
 la multiplicació de 10 i 5 és 50
 la divisió entre 10 i 5 és 2
 el major entre 10 i 5 és 10
+
+![Archivo calc.c](https://raw.githubusercontent.com/mmanzanelli/imagenesEDD/master/img_U4_make/calc.c.png)
+[Archivo calc.h](https://raw.githubusercontent.com/mmanzanelli/imagenesEDD/master/img_U4_make/calc.h.png)
+[Archivo calcula.c](https://raw.githubusercontent.com/mmanzanelli/imagenesEDD/master/img_U4_make/calcula.c.png)
+
 ___
 
 ## TO-DO pagina 10
@@ -53,3 +59,7 @@ ___
 **Para ejecutar el objetivo "targz" `make targz`que en este caso crea una carpeta "source" copia los ficheros ".c"".h"y "makefile" en ella, crea el fichero "calcula.tar", comprime en zip "calcula.tar", borra el fichero tar.gz y borra la carpeta temporal "source"; requiere previamente un `make clean`.**
 
 **En conclucion, MAKE es una herramienta que nos perminte agilizar nuestras tareas de programación de manera significativa.**
+
+[Archivo make](https://raw.githubusercontent.com/mmanzanelli/imagenesEDD/master/img_U4_make/makefile.png)
+
+
